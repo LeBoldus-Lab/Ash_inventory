@@ -23,7 +23,7 @@ I would appreciate your thoughts on these deliverables. If some of this doesn’
 ## Literature Review
 
 ### Sean Prive MS Thesis
-  Advised by Dave Shaw
+ Advised by Dave Shaw
 Sampled several ash-dominant, large stand sites in the mid to north Willamette Valley (listed N to S):
  - Tualatin Hills Nature Park
  - Willamette Mission State Park
