@@ -31,6 +31,7 @@ Sampled several ash-dominant, large stand sites in the mid to north Willamette V
  - Ankney National Wildlife Refuge
  - OSU Soap Creek Ranch
  - Jackson Frasier Wetland
+
 Possibly some of these sites could be re-sampled if the 2015 data would be useful addition? 
 
 On wetter sites where ash is dominant, no other tree species seems capable of forming closed canopies. Smaller species found include:
