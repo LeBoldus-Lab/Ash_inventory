@@ -58,4 +58,4 @@ On wetter sites where ash is dominant, no other tree species seems capable of fo
 
 Link for Survey123 app that Max from ODA put together
 
-https://survey123.arcgis.com/share/f6debc703f764fec87c580eaa5484d9c?
+http://oda.fyi/SpotEAB
